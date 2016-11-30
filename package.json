@@ -1,0 +1,27 @@
+{
+  "name": "node",
+  "version": "1.0.0",
+  "description": "A first Node project",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/MontyFelix/node.git"
+  },
+  "keywords": [
+    "node",
+    "express"
+  ],
+  "author": "Feliks Ivanov",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/MontyFelix/node/issues"
+  },
+  "homepage": "https://github.com/MontyFelix/node#readme",
+  "dependencies": {
+    "express": "^4.14.0",
+    "express3-handlebars": "^0.5.2"
+  }
+}
