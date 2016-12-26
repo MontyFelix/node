@@ -1,2 +1,2 @@
 # node
-A simple node test project
+A simple node test project.
